@@ -1,5 +1,8 @@
 # Nexus Configuration as Code
 
+> [!WARNING]
+> This plugin is deprecated as Nexus 3.78+ no longer supports OSGi plugins. See https://help.sonatype.com/en/bundle-development.html
+
 Nexus CasC is a configuration as code plugin for sonatype nexus 3.
 
 This plugin allows to specify a YAML file to configure a Nexus instance on startup.
